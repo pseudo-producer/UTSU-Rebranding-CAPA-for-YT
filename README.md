@@ -4,7 +4,7 @@
 
 Este arquivo de ilustração foi criado para servir como capa de divulgação do rebranding sobre o sintetizador de voz **[UTSU](https://github.com/titinko/utsu)** para thumbnails de vídeos sobre este projeto no Youtube ou qualquer outra plataforma de vídeo.
 
-Veja dois exemplos de **[animação e a speed art](https://www.youtube.com/watch?v=iF7Veys4gaE&t=614s)** deste projeto.
+Veja dois exemplos de **[animação e a speed art](https://www.youtube.com/watch?v=iF7Veys4gaE)** deste projeto.
 
 Sinta-se a vontade para baixar, visualizar, estudar e contribuir com melhorias neste arquivo, desde que esteja disposto a **dar os devidos créditos** e **não usá-lo de forma comercial**.
 
