@@ -1,4 +1,7 @@
 # UTSU - Rebranding capa for YT
+
+![UTSU-05_-_Rebranding_-_CAPA_YT](https://github.com/user-attachments/assets/7f941757-5425-4d10-83f6-85f961bf8932)
+
 Este arquivo de ilustração foi criado para servir como capa de divulgação do rebranding sobre o sintetizador de voz UTSU para thumbnails de vídeos sobre este projeto no Youtube ou qualquer outra plataforma de vídeo.
 
 Sinta-se a vontade para visualizar, estudar e contribuir com melhorias neste arquivo, desde que esteja disposto a dar os devidos créditos e não usá-lo de forma comercial.
